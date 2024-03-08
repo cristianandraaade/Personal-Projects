@@ -1,0 +1,14 @@
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\bin\Debug\net8.0\Personal-Projects.exe
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\bin\Debug\net8.0\Personal-Projects.deps.json
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\bin\Debug\net8.0\Personal-Projects.runtimeconfig.json
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\bin\Debug\net8.0\Personal-Projects.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\bin\Debug\net8.0\Personal-Projects.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.AssemblyInfo.cs
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\refint\Personal-Projects.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.genruntimeconfig.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\ref\Personal-Projects.dll
