@@ -12,3 +12,4 @@ C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net
 C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.pdb
 C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.genruntimeconfig.cache
 C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\ref\Personal-Projects.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1\obj\Debug\net8.0\Personal-Projects.sourcelink.json
