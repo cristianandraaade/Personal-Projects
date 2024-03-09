@@ -24,7 +24,7 @@ else
 
 */
 
-//problema 2 (calcular media de 3 numeros)
+/*problema 2 (calcular media de 3 numeros)
 
 //Declaração de variaveis
 double a,b,c, med;
@@ -43,3 +43,53 @@ med = (a+b+c)/3;
 //saida de dados
 
 Console.WriteLine("a media dos três números é "+ med);
+
+*/
+
+/*problema 3 (converter °C em °F)
+
+//Declaração de variaveis
+
+double c,f;
+
+//Entrada de dados
+
+Console.WriteLine("Insira um valor em °C");
+c=double.Parse(Console.ReadLine());
+
+//Processamento de dados
+
+f=(c*9/5)+32;
+
+//Saida de dados
+
+Console.WriteLine("O valor em °F é " + f);
+
+*/
+
+/*problema 4 (verificação de numero par ou impar)
+
+//declaração de variavel
+
+int num;
+
+//Emtrada de dados
+
+Console.WriteLine("Insira um número");
+num = int.Parse(Console.ReadLine());
+
+//Processamento e saida de dados
+
+if(num%2==0)
+{
+Console.WriteLine("o número é par");
+}
+    
+else
+{
+    Console.WriteLine("o número é impar");
+}
+    
+*/
+
+//problema 5 (calculo de fatorial)
