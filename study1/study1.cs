@@ -93,3 +93,20 @@ else
 */
 
 //problema 5 (calculo de fatorial)
+
+//Declaração de variavel
+
+int num,fatorial;
+
+//Entrada de dados
+
+Console.WriteLine("Insira um número inteiro");
+num=int.Parse(Console.ReadLine());
+
+//Processamento de dados
+
+fatorial=num*(num-1)*(num-2)*(num-3);
+
+//Saida de dados
+
+Console.WriteLine("a fatorial desse numero igual é " + fatorial);
