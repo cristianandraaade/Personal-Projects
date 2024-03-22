@@ -58,7 +58,6 @@ switch (select)
         }
         Console.WriteLine("Imposto Calculado {0:c2}", imposto);
         break;
-    
 }
 
 
