@@ -1,0 +1,15 @@
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\study1-prova-aed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\study1-prova-aed.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\study1-prova-aed.AssemblyInfo.cs
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\study1-prova-aed.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\study1-prova-aed.sourcelink.json
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\bin\Debug\net8.0\study1-prova-aed.exe
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\bin\Debug\net8.0\study1-prova-aed.deps.json
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\bin\Debug\net8.0\study1-prova-aed.runtimeconfig.json
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\bin\Debug\net8.0\study1-prova-aed.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\bin\Debug\net8.0\study1-prova-aed.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\study1-prova-aed.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\refint\study1-prova-aed.dll
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\study1-prova-aed.pdb
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\study1-prova-aed.genruntimeconfig.cache
+C:\Users\crist\Desktop\Projetos Faculdade\Personal-Projects\study1-prova-aed\obj\Debug\net8.0\ref\study1-prova-aed.dll
